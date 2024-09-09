@@ -5,9 +5,9 @@ Attendance Monitoring System using ZKTeco Biometrics
 
 ![2021-03-27](https://github.com/kimmartelolives/Attendance-Monitoring-System/assets/61133176/b3844d64-224a-4ea7-89f6-8e4098e35bc4)
 
-![image](https://github.com/kimmartelolives/Attendance-Monitoring-System/assets/61133176/72d6bfc5-1fbb-4e2f-b34f-7681eed4a26a)
+![monitor1](https://github.com/user-attachments/assets/3ec56b5d-3fba-4edd-ac8e-73a8f1a6331b)
 
-![image](https://github.com/kimmartelolives/Attendance-Monitoring-System/assets/61133176/e9e6eefc-8113-4afa-9f14-1fbfea598f3d)
+![monitor3](https://github.com/user-attachments/assets/04dd45c5-ee05-4856-91e3-eebbc0d6d4b4)
 
 ![image](https://github.com/kimmartelolives/Attendance-Monitoring-System/assets/61133176/1e9af0f2-ddbe-4a71-b7a1-fafd28290128)
 
